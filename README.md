@@ -2,7 +2,7 @@
 
 ### Instructions ###
 
-Complete the `fib(n)` method to **recursively** calculate the first *nth* digit in the Fibonacci sequence.  In the `main` method, print the first *n* digits in the sequence.  
+Complete the `fib(n)` method to **recursively** calculate the *nth* digit in the Fibonacci sequence.  In the `main` method, print the first *n* digits in the sequence.  
 
 There are no tests for this lab.
 
